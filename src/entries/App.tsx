@@ -26,7 +26,7 @@ export default function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite, React or Laman.js logos to learn more
+        Click on the Laman.js or React logos to learn more
       </p>
     </>
   );
