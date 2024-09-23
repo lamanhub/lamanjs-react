@@ -22,7 +22,7 @@ A minimal skeleton project to quickly start building web applications using **La
 2. Navigate to the project directory:
 
    ```bash
-   cd your-project-name
+   cd my-web
    ```
 
 3. Install dependencies:
