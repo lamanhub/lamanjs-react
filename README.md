@@ -16,7 +16,7 @@ A minimal skeleton project to quickly start building web applications using **La
 1. Initialize a new project using the Laman.js + React skeleton:
 
    ```bash
-   npm init lamanjs -- -s lamanhub/lamanjs-react
+   npm init lamanjs my-web -- -s lamanhub/lamanjs-react
    ```
 
 2. Navigate to the project directory:
